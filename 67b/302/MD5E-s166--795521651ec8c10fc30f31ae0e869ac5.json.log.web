@@ -1,0 +1,4 @@
+1661350115.357543344s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARUN994RMC/ses-HBNsiteRU/sub-NDARUN994RMC_ses-HBNsiteRU_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_AWF.json
+1661350116.024009653s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARUN994RMC/ses-HBNsiteRU/sub-NDARUN994RMC_ses-HBNsiteRU_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_FA.json
+1661350116.76961526s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARUN994RMC/ses-HBNsiteRU/sub-NDARUN994RMC_ses-HBNsiteRU_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_MD.json
+1661350117.525583801s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARUN994RMC/ses-HBNsiteRU/sub-NDARUN994RMC_ses-HBNsiteRU_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_MK.json

@@ -1,0 +1,4 @@
+1661153355.89671274s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARCG808HDJ/ses-HBNsiteCBIC/sub-NDARCG808HDJ_ses-HBNsiteCBIC_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_AWF.json
+1661153356.210123643s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARCG808HDJ/ses-HBNsiteCBIC/sub-NDARCG808HDJ_ses-HBNsiteCBIC_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_FA.json
+1661153356.578612899s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARCG808HDJ/ses-HBNsiteCBIC/sub-NDARCG808HDJ_ses-HBNsiteCBIC_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_MD.json
+1661153356.863369189s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/afq/sub-NDARCG808HDJ/ses-HBNsiteCBIC/sub-NDARCG808HDJ_ses-HBNsiteCBIC_acq-64dir_space-T1w_desc-preproc_dwi_model-DKI_MK.json
